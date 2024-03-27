@@ -34,5 +34,3 @@ Dropped the "byline.person" column, removed duplicate rows, and reset the DataFr
 Exported the cleaned DataFrame to a CSV file without the index.
 ## Findings
 Overall, the data preparation process involved accessing and extracting data from The New York Times API and The Movie Database API, merging the data, cleaning it by converting data types, removing unwanted characters, and exporting the final cleaned data to a CSV file for use in a recommendation system.
-
-
